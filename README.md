@@ -10,8 +10,8 @@ Puedes encontrar la teoría utilizada en este ejemplo en el siguiente enlace:
 ---
 
 ## 📦 Tecnologías utilizadas
-- <a href="https://docs.google.com/document/d/1lhBlLzDBTsm5zI9kWFjIm0B3sWAmhhWgpqg-IGfepcA/edit?tab=t.0#heading=h.jxadv55jyth" target="_blank">**Bootstrap** para el diseño responsivo.
-- <a href="https://docs.google.com/document/d/1lhBlLzDBTsm5zI9kWFjIm0B3sWAmhhWgpqg-IGfepcA/edit?tab=t.0#heading=h.xl3ce7m9tn28" target="_blank">**JavaScript** para la interacción dinámica en el lado del cliente.
+- <a href="https://docs.google.com/document/d/1lhBlLzDBTsm5zI9kWFjIm0B3sWAmhhWgpqg-IGfepcA/edit?tab=t.0#heading=h.jxadv55jyth" target="_blank">**Bootstrap**</a> para el diseño responsivo.
+- <a href="https://docs.google.com/document/d/1lhBlLzDBTsm5zI9kWFjIm0B3sWAmhhWgpqg-IGfepcA/edit?tab=t.0#heading=h.xl3ce7m9tn28" target="_blank">**JavaScript**</a> para la interacción dinámica en el lado del cliente.
 - **PHP (POO)** para la lógica del servidor.
 - **MySQL** para la persistencia de datos.
 
