@@ -98,7 +98,7 @@ class Usuario
 			if(mysqli_num_rows($result) > 0){
 				$usuario = mysqli_fetch_assoc($result);
 				if(password_verify($usr_pass, $usuario['usr_pass'])){
-					$usr_key = md5($usuario['usr_email'] . $usuario['usr_pass'] . time()); // Genera una clave de usuario
+					$usr_key = md5($usuario['usr_email'] . time()); // Genera una clave de usuario
 					// registro la key en la base de datos
 					// verifico si ya existe un token para este usuario
 					$query = "SELECT * FROM access_token WHERE id_usuario = ".$usuario['id'];
